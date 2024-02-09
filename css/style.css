@@ -6,3 +6,11 @@
     margin: 0;
     padding: 0;
 }
+
+:root {
+    --font1: Verdana, Geneva, Tahoma, sans-serif;
+    --font2: 'Passion One', cursive;
+    --font3: 'Sriracha', cursive;
+    --color1: white;
+    --color2: black;
+}
