@@ -47,3 +47,12 @@ header a:hover, footer a:hover {
 main {
     background-color: var(--color1);
 }
+
+section > pre {
+    border-radius: 10px;
+    font-family: var(--fonte3);
+    font-size: 3.5vw;
+    padding: 1rem;
+    margin-left: -12vw;
+    margin-top: 1.5em;
+}
