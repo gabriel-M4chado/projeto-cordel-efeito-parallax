@@ -7,8 +7,8 @@
 - O projeto foi utilizado root no CSS para armazenar as cores quando possível.
 
 ## 💻 Tecnologias utilizadas:
-[![HTML](https://skillicons.dev/icons?i=html&theme=light)]
-[![HTML](https://skillicons.dev/icons?i=css&theme=light)]
+![HTML](https://skillicons.dev/icons?i=html&theme=light)
+![HTML](https://skillicons.dev/icons?i=css&theme=light)
 
 ## Para ler esse conteúdo em inglês:
 
