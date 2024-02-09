@@ -28,3 +28,18 @@ header {
     padding: 1rem;
     text-align: center;
 }
+
+
+header > p {
+    padding-bottom: 50px;
+}
+
+header a, footer a {
+    color: var(--color1);
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+header a:hover, footer a:hover {
+    text-decoration: underline;
+}
