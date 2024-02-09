@@ -15,3 +15,9 @@
     --color1: white;
     --color2: black;
 }
+
+html, body {
+    background-color: var(--color1);
+    font-family: var(--font1);
+    min-height: 100vh;    
+}
