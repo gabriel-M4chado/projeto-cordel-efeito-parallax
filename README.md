@@ -2,6 +2,9 @@
  Criando o projeto com uma abordagem diferente do [projeto original](https://professorguanabara.github.io/projeto-cordel/)
 
 
+ # Para ver o projeto [clique aqui](https://gabriel-m4chado.github.io/projeto-cordel-efeito-parallax/)
+
+
 ## Algumas diferenças do projeto original:
 - Foi usango grouping tag main em conjunto com section e tag pre quando possível.
 - O projeto foi utilizado root no CSS para armazenar as cores quando possível.
