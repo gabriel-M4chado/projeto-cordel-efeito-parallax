@@ -1,5 +1,5 @@
 # projeto-cordel-efeito-parallax
- Criando o projeto com uma abordagem diferente do [projeto original](https://professorguanabara.github.io/projeto-cordel/)
+ Criando o projeto com uma abordagem diferente do [projeto original](https://github.com/professorguanabara/projeto-cordel/tree/master)
 
 
  # Para ver o projeto [clique aqui](https://gabriel-m4chado.github.io/projeto-cordel-efeito-parallax/)
