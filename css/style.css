@@ -111,3 +111,10 @@ footer > p {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+/* Media query for smartphones */
+@media screen and (max-width: 767px) {
+    section.imagem > p {
+        margin-left: 5vw;
+    }
+}
