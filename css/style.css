@@ -114,10 +114,6 @@ footer > p {
 
 /* Media query for smartphones */
 @media screen and (max-width: 767px) {
-
-    section > pre {
-        margin-left: -10vw;
-    }
     section.imagem > p {
         margin-left: 5vw;
     }
