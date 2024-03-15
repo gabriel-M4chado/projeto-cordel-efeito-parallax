@@ -118,9 +118,3 @@ footer > p {
         margin-left: 5vw;
     }
 }
-
-@media screen and (max-width: 430px) {
-    section.imagem > p {
-        margin-left: 15vw;
-    }
-}
