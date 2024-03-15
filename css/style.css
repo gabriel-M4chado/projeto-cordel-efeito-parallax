@@ -115,7 +115,7 @@ footer > p {
 /* Media query for smartphones */
 @media screen and (max-width: 767px) {
     section.imagem > p {
-        margin-left: 5vw;
+        margin-left: 25px;
     }
 
     section#img1 {
