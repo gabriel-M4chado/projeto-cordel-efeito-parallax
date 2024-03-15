@@ -117,4 +117,8 @@ footer > p {
     section.imagem > p {
         margin-left: 5vw;
     }
+
+    section#img1 {
+        background-size: cover;
+    }
 }
