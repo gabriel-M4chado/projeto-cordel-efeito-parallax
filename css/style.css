@@ -115,10 +115,21 @@ footer > p {
 /* Media query for smartphones */
 @media screen and (max-width: 767px) {
     section.imagem > p {
-        margin-left: 25px;
+        margin-left: 5vw;
     }
 
     section#img1 {
         background-size: cover;
+    }
+}
+
+/* Media query for smartphones */
+@media screen and (max-width: 470px) {
+    section > pre {
+        margin-left: 10vw;
+    }
+
+    section.imagem > p {
+        margin-left: 27vw;
     }
 }
